@@ -16,6 +16,8 @@
         "no-underscore-dangle":"off",
         "no-undef":"off",
         "camelcase":"off",
-        "object-curly-newline":"off"
+        "object-curly-newline":"off",
+        "newline-per-chained-call":"off",
+        "max-len":"off"
     }
 }
